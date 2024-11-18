@@ -1,5 +1,5 @@
 # Modnhac-nenlq
-cách làm: làm y như mik mod skin lq 
+cách làm: làm y như mik mod skin lq,
 chú ý: android 10 phải dùng shizuku, android 9 ko cần 
 nếu muốn tự làm nhạc lq tui qua
 +Discord:ngcson1460
